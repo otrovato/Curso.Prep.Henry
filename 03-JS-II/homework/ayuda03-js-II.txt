@@ -1,0 +1,5 @@
+for: son bucles(que se repite) que evaluan una expresion una y otra vez hasta que devuelve lo se esta buscando o se detiene despues de un tiempo.
+
+&&: es un operador logico que significa "Y"("and"). Este operador evalua dos expresiones devuelve verdades si ambas expresiones son verdades ('true') Si uno o ambos de ellos son falso, este operador devolve 'false'
+
+||: es un operador logico que significa "O" ("or"). Este operador evalua dos expresiones, determina si una de las expresiones es verdadera ('true'). Devuelve 'true si una o ambas de las expresiones es verdadera ('true'). Devuelve falso('false') si ambas expresiones son falsas('false')
