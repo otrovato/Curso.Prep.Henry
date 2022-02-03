@@ -1,0 +1,1 @@
+Array: los array son como listas cuyo proporciona metodos para efectuar opereraciones de recorrido de de clonacion. Tanto la longitud como el tipo de elementos son variables.
