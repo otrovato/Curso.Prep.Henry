@@ -1,0 +1,24 @@
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+Objetos y propiedades: es una coleccion de propiedades, y una propiedad es una asociacion entre un nombre o clave y un valor.
+
+Métodos: los metedos son funciones guardadas en un objeto. Podemos establecer una clave para un nombre y el valor para una función. Los metodo son llamados usando su nombre.
+Ej decirHola:function(){
+ console.log('Hola a todo el mundo');
+}
+Bucle for...in
+El for es diferente en objetos. En Javascript empieza igual con un for luego entre parentesis se declara una variable y sigue con la palabra clave in y el nombre del objeto. Esto hace que recorra cada clave del objeto y finalizara cuando se haya terminado todas las claves.
+
+Notación de puntos vs notación de corchetes
+Con la notacion de puntos podemos llamar al nombre del objeto, un punto y el nombre de la clave.
+Ej: user.username;//juan. perez
+    user.lovesJavascript;//true
+La notacion de corchetes es como llamar a un elemento en una matriz, aunque con corchetes debemos usar una cadena o numero, o una variable que apuente a una cadena o numero. Se puede llamar a cada clave entre comillas:
+Ej: var passString='password'
+user[lovesJavascript];//true
+user['username'];//juan.perez
+usuer[passSString];//loremipsumpwd123
+Generalmente, varas que los corchetes casi siempre se usan con variables.
