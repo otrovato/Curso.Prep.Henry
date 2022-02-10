@@ -1,0 +1,4 @@
+prototype
+Constructors (de Clases)
+prototype:son metodos de una clase que se establecen una vezz y dan accesa a cada objeto de esa clase o a metodos. Cada clase tiene una propiedad prototype, que luego podemos establecer en metodos.
+Constructores: el metodo constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
